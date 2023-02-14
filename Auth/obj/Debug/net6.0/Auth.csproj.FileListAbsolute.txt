@@ -1,0 +1,15 @@
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\bin\Debug\net6.0\Auth.exe
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\bin\Debug\net6.0\Auth.deps.json
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\bin\Debug\net6.0\Auth.runtimeconfig.json
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\bin\Debug\net6.0\Auth.dll
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\bin\Debug\net6.0\Auth.pdb
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\Auth.csproj.AssemblyReference.cache
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\Auth.AssemblyInfoInputs.cache
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\Auth.AssemblyInfo.cs
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\Auth.csproj.CoreCompileInputs.cache
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\Auth.dll
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\refint\Auth.dll
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\Auth.pdb
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\Auth.genruntimeconfig.cache
+C:\Users\RONALDO WIJAYA\source\repos\Auth\Auth\obj\Debug\net6.0\ref\Auth.dll
